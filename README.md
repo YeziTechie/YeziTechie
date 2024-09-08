@@ -1,4 +1,14 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer | Building Creative Responsive Designs with Scalable Web Applications | Love to Work on Small & Big Projects</h3>
+
+- - Currently working on **my own portfolio**
+
+- - Deepening my knowledge in **responsive design and js, back & front technologies**
+
+- - I'll be happy to contribute on **Django, Python, JS projects**
+
+- - Mentality: **Discipline, Stoicism, Self-Knowledge, Self-Mastery**
+
+- - Work: **Currently Accepting your projects, big or small.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
