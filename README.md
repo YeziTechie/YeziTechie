@@ -22,5 +22,5 @@
 
 
 
-[![YeziTechie's GitHub | Languages Over Time](https://stats.quira.sh/YeziTechie/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=YeziTechie)
+[![YeziTechie's GitHub | Languages Over Time](https://stats.quira.sh/YeziTechie/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=YeziTechie)
 [![YeziTechie's GitHub | Topics Over Time](https://stats.quira.sh/YeziTechie/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=YeziTechie)
