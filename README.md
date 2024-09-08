@@ -1,10 +1,5 @@
 <h3 align="center">Full Stack Developer | Building Creative Responsive Designs with Scalable Web Applications</h3>
 
-<div style='display:flex; flex-direction:row;'>
-  <div>asdf</div>  
-  <div>asdff</div>  
-</div>
-
 -  Currently working on **my own portfolio**
 
 -  Deepening my knowledge in **responsive design and js, back & front technologies**
