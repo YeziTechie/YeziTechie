@@ -1,5 +1,7 @@
 <h3 align="center">Full Stack Developer | Building Creative Responsive Designs with Scalable Web Applications | Love to Work on Small & Big Projects</h3>
 
+<div style='width:20px; height:20px; background-color:blue;'></div>
+
 -  Currently working on **my own portfolio**
 
 -  Deepening my knowledge in **responsive design and js, back & front technologies**
